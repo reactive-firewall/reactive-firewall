@@ -7,7 +7,7 @@
 
 ![User Stats](https://github-readme-stats.vercel.app/api?username=reactive-firewall&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reactive-firewall&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=20)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reactive-firewall&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=25)
 
 ---
 
