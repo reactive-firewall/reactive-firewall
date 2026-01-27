@@ -14,9 +14,9 @@
 ## F.A.Q.
 
 - 🔭 I’m currently working on stuff ... the _recent activity_ is listed at the bottom of my Github profile.
-- 🌱 I’m currently learning how to better use `awk` and `ast-grep`
+- 🌱 I’m currently learning how to bootstrap my own stage1 baremetal cross compiler toolchain hermeticly from source.
 - 👯 I’m looking to collaborate on github.com
-- 🤔 I’m looking for help with [multicast](https://github.com/reactive-firewall-org/multicast)
+- 🤔 I’m looking for help with maintaining [multicast](https://github.com/reactive-firewall-org/multicast)
 - 💬 Ask me about [some of my favorite quotes](https://gist.github.com/reactive-firewall/620cc500b0b71135e0911aca2d5927d5)
 - 📫 How to reach me: [in/kwalls](https://linkedin.com/in/kwalls) (work) / `@reactive-firewall` (other)
 - 🤷 Pronouns: I/me/myself/my/mine, he/him/himself, they/them/themselves/their/theirs, we/us/ourselves/our/ours, you/yourself/your/yours, who/oneself, whom/whose
