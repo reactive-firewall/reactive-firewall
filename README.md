@@ -21,6 +21,7 @@
 - 📫 How to reach me: [in/kwalls](https://linkedin.com/in/kwalls) (work) / `@reactive-firewall` (other)
 - 🤷 Pronouns: I/me/myself/my/mine, he/him/himself, they/them/themselves/their/theirs, we/us/ourselves/our/ours, you/yourself/your/yours, who/oneself, whom/whose
 - ⚡ Fun fact: I have an insatiable thirst for knowledge and I enjoy learning about all variety of topics for the sake of satisfying my curiosity.
+- 🧑‍💻 **Clarification:** I am human! Any similarities in writing style with 'generative AI' tools are coincidental; I leverage these technologies to assist me, not to replace my voice or insights.
 
 ---
 
